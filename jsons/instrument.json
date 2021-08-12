@@ -1,0 +1,54 @@
+[
+  {
+    "idInstrument": 0,
+    "name": "guitarra lectrica"
+  },
+  {
+    "idInstrument": 0,
+    "name": "vocalista"
+  },
+  {
+    "idInstrument": 0,
+    "name": "saxo tenor"
+  },
+  {
+    "idInstrument": 0,
+    "name": "bajo electrico"
+  },
+  {
+    "idInstrument": 0,
+    "name": "guitarra acustica"
+  },
+  {
+    "idInstrument": 0,
+    "name": "bateria"
+  },
+  {
+    "idInstrument": 0,
+    "name": "congas"
+  },
+  {
+    "idInstrument": 0,
+    "name": "trompeta"
+  },
+  {
+    "idInstrument": 0,
+    "name": "tarolas"
+  },
+  {
+    "idInstrument": 0,
+    "name": "maracas"
+  },
+  {
+    "idInstrument": 0,
+    "name": "piano"
+  },
+  {
+    "idInstrument": 0,
+    "name": "trombon"
+  },
+  {
+    "idInstrument": 0,
+    "name": "violin"
+  }
+]

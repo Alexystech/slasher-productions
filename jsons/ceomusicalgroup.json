@@ -1,0 +1,51 @@
+[
+  {
+    "idCEO": 0,
+    "name": "Miguel",
+    "lastName": "Lagunes",
+    "email": "nativo.show@gmail.com",
+    "cellphone": "2291147484"
+  },
+  {
+    "idCEO": 0,
+    "name": "Alexis",
+    "lastName": "Vazquez",
+    "email": "slasher.music@gmail.com",
+    "cellphone": "2296542345"
+  },
+  {
+    "idCEO": 0,
+    "name": "Jose",
+    "lastName": "Morales",
+    "email": "zember@gmail.com",
+    "cellphone": "2291152453"
+  },
+  {
+    "idCEO": 0,
+    "name": "Slasher",
+    "lastName": "Vazquez",
+    "email": "superlamas@gmail.com",
+    "cellphone": "2299876655"
+  },
+  {
+    "idCEO": 0,
+    "name": "perfect",
+    "lastName": "Vasquez",
+    "email": "internacionales.vasquez@gmail.com",
+    "cellphone": "2291147484"
+  },
+  {
+    "idCEO": 0,
+    "name": "Vanessa",
+    "lastName": "Vazquez",
+    "email": "angeles.negros@gmail.com",
+    "cellphone": "2281146452"
+  },
+  {
+    "idCEO": 0,
+    "name": "propio",
+    "lastName": "Morales",
+    "email": "socios@gmail.com",
+    "cellphone": "2281163526"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "idRegistersToPH": {
+      "idCEO": 1,
+      "idProducerHouse": 1
+    },
+    "date": "2021-08-08"
+  },
+  {
+    "idRegistersToPH": {
+      "idCEO": 2,
+      "idProducerHouse": 1
+    },
+    "date": "2021-08-08"
+  },
+  {
+    "idRegistersToPH": {
+      "idCEO": 3,
+      "idProducerHouse": 1
+    },
+    "date": "2021-08-08"
+  },
+  {
+    "idRegistersToPH": {
+      "idCEO": 4,
+      "idProducerHouse": 1
+    },
+    "date": "2021-08-08"
+  },
+  {
+    "idRegistersToPH": {
+      "idCEO": 5,
+      "idProducerHouse": 1
+    },
+    "date": "2021-08-08"
+  },
+  {
+    "idRegistersToPH": {
+      "idCEO": 6,
+      "idProducerHouse": 1
+    },
+    "date": "2021-08-08"
+  },
+  {
+    "idRegistersToPH": {
+      "idCEO": 7,
+      "idProducerHouse": 1
+    },
+    "date": "2021-08-08"
+  }
+]

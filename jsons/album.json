@@ -1,0 +1,12 @@
+{
+  "idAlbum": 0,
+  "name": "album_1",
+  "date": "2021-08-08",
+  "registerToPH": {
+    "idRegistersToPH": {
+      "idCEO": 1,
+      "idProducerHouse": 1
+    }
+  }
+}
+

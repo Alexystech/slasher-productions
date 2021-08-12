@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: slasherproductions
+  profiles:
+    active: dev
+server:
+  servlet:
+    context-path: /slasher/api
